@@ -4,6 +4,8 @@ In this repository, You will find my first learning algorithm based on symbolic 
 
 Thanks a lot for give me an oportunity to show you how this algorithm works. I hope It would help you to solve a clasification problem.
 
+At the moment this algorithm is named as ***Binary Version Space Algorithm (BVSA)***. This name is still on decition.
+
 ## Disclaming
 
 Of course, I only designed this algorithm, the dataset, images and other things necesary to run this proyect are no all mine. Thats why, in respect to the other coders and people who made the datasets, This repository will only contain my code, the rest of requirements you will need to visit the original sources, download the tools, and follow my instructions for make this code works.
@@ -28,10 +30,12 @@ In order to make you quite easy the Instalation of all libs and dependencies req
 pip install -r requirements.txt
 ```
 
-and all will be installed on your environment (>w<>).
+and all will be installed on your environment (>w<).
 
 #### hint
 
 Consider using conda environment if you don't want to install this libraries on your main environment
 
 Thanks a lot for your comprehention, now go ahead and test this fantastic code!!!
+
+If you want to know more, feel free to check the [wiki](https://github.com/JacobHawk603/My-own-learning-Algorithm/wiki)
